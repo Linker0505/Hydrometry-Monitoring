@@ -1,2 +1,2 @@
-# Water regime detection
+# Hydrometry monitoring
 A  tiny project about hydrometry monitoring.
